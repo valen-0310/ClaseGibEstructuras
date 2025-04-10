@@ -10,6 +10,7 @@ public class GibEstructuras {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hice un cambio es este");
+        System.out.println("ya probe");
     }
     
 }
